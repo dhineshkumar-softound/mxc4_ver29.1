@@ -1,4 +1,4 @@
-package boton.c4.pisa.fmnr;
+package boton.c4.pisa.fmns;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;

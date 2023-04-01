@@ -1,4 +1,4 @@
-package boton.c4.pisa.fmnr;
+package boton.c4.pisa.fmns;
 
 import android.provider.BaseColumns;
 

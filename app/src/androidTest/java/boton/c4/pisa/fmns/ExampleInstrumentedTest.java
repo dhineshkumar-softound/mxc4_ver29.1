@@ -1,4 +1,4 @@
-package boton.c4.pisa.fmnr;
+package boton.c4.pisa.fmns;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("boton.c4.pisa.fmnr", appContext.getPackageName());
+        assertEquals("boton.c4.pisa.fmns", appContext.getPackageName());
     }
 }

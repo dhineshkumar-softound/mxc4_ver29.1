@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="boton.c4.pisa.fmnr">
+    package="boton.c4.pisa.fmns">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
@@ -27,7 +27,7 @@
         android:requestLegacyExternalStorage="true"
         android:largeHeap="true"
         android:screenOrientation="portrait">
-        <activity android:name="boton.c4.pisa.fmnr.MainActivity" android:exported="true">
+        <activity android:name="boton.c4.pisa.fmns.MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -5,11 +5,11 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "boton.c4.pisa.fmnr"
+        applicationId "boton.c4.pisa.fmns"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1
-        versionName "29.1"
+        versionName "29.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

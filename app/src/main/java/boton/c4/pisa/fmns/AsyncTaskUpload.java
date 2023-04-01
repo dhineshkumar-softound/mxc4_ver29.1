@@ -1,4 +1,4 @@
-package boton.c4.pisa.fmnr;
+package boton.c4.pisa.fmns;
 
 import android.content.Context;
 import android.os.AsyncTask;
@@ -109,7 +109,7 @@ public class AsyncTaskUpload extends AsyncTask<String, String, String> {
                         conn.setRequestProperty("file", wavFilePath);
                         conn.setRequestProperty("screen", screen_orientation);
                         conn.setRequestProperty("images", picture_orientation);
-                        conn.setRequestProperty("version", boton.c4.pisa.fmnr.BuildConfig.VERSION_NAME);
+                        conn.setRequestProperty("version", boton.c4.pisa.fmns.BuildConfig.VERSION_NAME);
                         conn.setRequestProperty("model", deviceName);
 
 
@@ -128,7 +128,7 @@ public class AsyncTaskUpload extends AsyncTask<String, String, String> {
                         dos.writeBytes(lineEnd);
                         dos.writeBytes(picture_orientation + lineEnd);
                         dos.writeBytes(twoHyphens + boundary + lineEnd);
-                        dos.writeBytes(boton.c4.pisa.fmnr.BuildConfig.VERSION_NAME + lineEnd);
+                        dos.writeBytes(boton.c4.pisa.fmns.BuildConfig.VERSION_NAME + lineEnd);
                         dos.writeBytes(twoHyphens + boundary + lineEnd);
                         dos.writeBytes(deviceName + lineEnd);
                         dos.writeBytes(twoHyphens + boundary + lineEnd);

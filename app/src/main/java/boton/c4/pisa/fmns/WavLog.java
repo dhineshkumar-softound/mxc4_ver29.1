@@ -1,4 +1,4 @@
-package boton.c4.pisa.fmnr;
+package boton.c4.pisa.fmns;
 
 
 import android.content.Context;
@@ -29,7 +29,7 @@ public class WavLog {
         //Log.d("log_dir", log_dir);
         String wav_log_file_path = log_dir + "/log-" + currentDateandTimeLogFile + ".txt";
 
-        content = currentDateandTime + " ver " + boton.c4.pisa.fmnr.BuildConfig.VERSION_NAME + " : " + class_name + " : " + method_name + " : " + content + "\n";
+        content = currentDateandTime + " ver " + boton.c4.pisa.fmns.BuildConfig.VERSION_NAME + " : " + class_name + " : " + method_name + " : " + content + "\n";
         content = content + "\n";
 
         try {

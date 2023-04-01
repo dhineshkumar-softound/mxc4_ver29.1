@@ -1,4 +1,4 @@
-package boton.c4.pisa.fmnr;
+package boton.c4.pisa.fmns;
 
 import static android.content.pm.PackageManager.PERMISSION_GRANTED;
 
@@ -1808,7 +1808,7 @@ public class MainActivity extends AppCompatActivity implements SettingsDialog.Se
             pre_execute = files.length;
         }
         if( id == "upload_images" ) {
-            track_id = "9"+","+last_image_date_time+","+gps_lat_info+","+gps_long_info+","+batterylevel+","+String.valueOf(pre_execute)+","+result/1000000+","+check_power_status+","+batteryTemp+"°C"+","+deviceName+","+boton.c4.pisa.fmnr.BuildConfig.VERSION_NAME;
+            track_id = "9"+","+last_image_date_time+","+gps_lat_info+","+gps_long_info+","+batterylevel+","+String.valueOf(pre_execute)+","+result/1000000+","+check_power_status+","+batteryTemp+"°C"+","+deviceName+","+boton.c4.pisa.fmns.BuildConfig.VERSION_NAME;
             result = 0;
         }
 
