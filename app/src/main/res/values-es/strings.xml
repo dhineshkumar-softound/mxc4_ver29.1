@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">mxc4</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="c4_button">C4 Button</string>
+    <string name="image_display">Visualización de imagen</string>
+    <string name="image_display_duration_txt">Aparece (1-99 segundos)</string>
+    <string name="image_click_sensitive_txt">Hacer clic</string>
+    <string name="save_settings_btn">Guardar</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="yes_btn">Sí</string>
+    <string name="no_btn">No</string>
+    <string name="confirmation_location_info">¿Es correcta la información de ubicación?</string>
+    <string name="location_title">Es esta su ubicación</string> <!-- Location -->
+    <string name="getting_location">Obtener ubicación ...</string>
+    <string name="getting_info">Obtener información ...</string>
+    <string name="processing">Procesando...</string>
+    <string name="verify_your_location">Verifica tu ubicación</string>
+    <string name="saved_location">Ubicación guardada!</string>
+    <string name="settings_label">Ajustes</string>
+    <string name="saved_preferences">Preferencias guardadas</string>
+    <string name="downloading_assets">Descarga de activos ...</string>
+    <string name="network_not_available">Red no disponible</string>
+    <string name="device_position_alert">Esta es una aplicación para uso fijo, regrese el dispositivo a la posición original</string>
+    <string name="successfully_downloaded">Descargado exitosamente</string>
+    <string name="seconds_left">segundos restantes</string>
+    <string name="enable_gps_setting">Tu GPS parece estar desactivado, ¿quieres activarlo?</string>
+    <string name="device_is_moving_fast">No puede mover el teléfono celular durante este proceso.</string>
+    <string name="start_again_btn">Empezar de nuevo</string>
+    <string name="device_moving_title">Dispositivo en movimiento</string>
+    <string name="searching_location">Buscando ubicación...</string>
+    <string name="need_enough_samples">Espere para completar las muestras</string>
+    <string name="invalid_location">Locación inválida</string>
+    <string name="is_closed_circuit">Puertas y Ventanas</string>
+    <string name="protection_message">La protección comenzará cuando salga del área protegida.</string>
+    <string name="closecircuit_dialog_title">Confirma código</string>
+    <string name="enter_confirm_code">Ingrese Confirmar Código</string>
+    <string name="image_change">Mis imagenes</string>
+    <string name="camera_info">Cámara delantera o trasera</string>
+    <string name="clock_screen">Fondo del reloj</string>
+    <string name="flash_light">Lámpara</string>
+    <string name="camera_upload">Sube fotos</string>
+    <string name="ambient_light">Lámpara sin electricidad</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">mxc4</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="c4_button">C4 Button</string>
+    <string name="image_display">Image or Time</string>
+    <string name="image_display_duration_txt">Appears(1 - 99 seconds)</string>
+    <string name="image_click_sensitive_txt">Image Click</string>
+    <string name="image_change">From Gallery</string>
+    <string name="camera_info">Front or Back Camera</string>
+    <string name="clock_screen">Background on Clock Screen</string>
+    <string name="flash_light">Flash Light ON/OFF</string>
+    <string name="camera_upload">Camera/Uploads</string>
+    <string name="save_settings_btn">Save</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+    <string name="confirmation_location_info">Is the location info correct ?</string>
+    <string name="location_title">Location</string>
+    <string name="getting_location">Getting Location ...</string>
+    <string name="getting_info">Getting Info ...</string>
+    <string name="processing">Processing...</string>
+    <string name="verify_your_location">Verify your Location</string>
+    <string name="saved_location">Saved Location!</string>
+    <string name="settings_label">Settings</string>
+    <string name="saved_preferences">Saved Preferences</string>
+    <string name="downloading_assets">Downloading Assets ...</string>
+    <string name="network_not_available">Network Not Available</string>
+    <string name="device_position_alert">This is an app for fixed use, please return the device to the original position</string>
+    <string name="successfully_downloaded">Successfully downloaded</string>
+    <string name="seconds_left">seconds left</string>
+    <string name="enable_gps_setting">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="device_is_moving_fast">You can not move the cellphone during this process</string>
+    <string name="start_again_btn">Start Again</string>
+    <string name="device_moving_title">Device Moving</string>
+    <string name="searching_location">Searching Location...</string>
+    <string name="need_enough_samples">Please wait to complete samples</string>
+    <string name="invalid_location">Invalid Location</string>
+    <string name="is_closed_circuit">Doors and Windows</string>
+    <string name="protection_message">The protection will begin when you leave the protected area</string>
+    <string name="closecircuit_dialog_title">Confirm Code</string>
+    <string name="enter_confirm_code">Enter Confirm Code</string>
+    <string name="ambient_light">Flashlight</string>
+    <string name="crashes" translatable="false">app_crashes_error</string>
+</resources>
